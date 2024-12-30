@@ -1,0 +1,1 @@
+The IntQuickSorter class presented in this chapter sorts an array of int values. Create an ObjectQuickSorter class that can sort Comparable objects. Demonstrate the class in a program that sorts an array of String objects.
